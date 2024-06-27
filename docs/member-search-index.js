@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example.GroupeA10Exercice1","c":"Singleton","l":"getInstance()"},{"p":"org.example.GroupeA10Exercice1","c":"Main","l":"Main()","u":"%3Cinit%3E()"},{"p":"org.example.GroupeA10Exercice1","c":"Main","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

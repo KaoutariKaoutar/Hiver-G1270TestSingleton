@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example.GroupeA10Exercice1","l":"Main"},{"p":"org.example.GroupeA10Exercice1","l":"Singleton"}];updateSearchResults();
